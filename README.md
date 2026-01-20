@@ -1,0 +1,1 @@
+Analyzing Job Posting Data from Indeed and LinkedIn by using Word2Vec and Graph Neural Networks
